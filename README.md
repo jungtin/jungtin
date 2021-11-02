@@ -1,4 +1,4 @@
-### Nguyen Trung Thinh (Jungtin) 😎 - a fan of doing coding and researching for knowledge, also a reinforcement learner.
+### Nguyen Trung Thinh (Jungtin) 😎 - an entreprenuer developer.
 
 - For more information, checkout: *https://jungtin.me*
 - For my detailed profile, checkout: *https://www.linkedin.com/in/jungtin854/*
