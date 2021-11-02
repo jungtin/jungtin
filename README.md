@@ -13,8 +13,8 @@
 - 😚  Java Framework: Spring, Hibernate | projects: https://rygf.herokuapp.com **(Multi-user Blog, Forum)**
 - 😆  NodeJS Framework: ExpressJS, NestJS | projects: https://academy.jungtin.me **(Online Streaming Service)**
 - 😙  More with VueJS: https://jungtin-flash-card.web.app **(Memory FlashCard)**, https://jungtin-food.web.app **(Food Order App)**
-- 😎  More tools that i'm using: Docker, Figma
-- 😳  Databases: MySQL, SQLServer, MongoDB
+- 😎  More tools that i'm using: **Docker**, **Figma**
+- 😳  Databases: **MySQL**, **SQLServer**, **MongoDB**
 - ⚡  Fun fact: ***I can beatbox, singing, play guitar, doing magic tricks & more 💨***
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jungtin&show_icons=true&locale=en&layout=compact" alt="jungtin" /></p>
