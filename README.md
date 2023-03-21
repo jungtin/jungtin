@@ -1,19 +1,22 @@
 ### Nguyen Trung Thinh (Jungtin) 😎 - an entreprenuer developer.
 
-- For more information, checkout: *https://jungtin.me*
-- For my detailed profile, checkout: *https://www.linkedin.com/in/jungtin854/*
-- For contacting, checkout: *nguyentrungthinh2000@gmail.com*
+[//]: # (- For more information, checkout: *https://jungtin.me*)
+- Check out my Linkedin: *https://www.linkedin.com/in/jungtin854/*
+- Email me at *nguyentrungthinh2000@gmail.com*
 
 --------
 
-- 📚  I'm currently a last-year student at **FPT University - Ho Chi Minh City**
-- 🤓  I'm working as KMS Technology - Software Engineer Intern (Elemica Project as Angular Developer)
-- 😼  I enjoy building great product for user & operating it
-- 👨‍ 💻 I've been coding in years using **Java** and **NodeJS** technologies.
-- 😚  Java Framework: **Spring, Hibernate** | projects: https://rygf.herokuapp.com **(Multi-user Blog, Forum)**
-- 😆  NodeJS Framework: **ExpressJS, NestJS** | projects: https://academy.jungtin.me **(Online Streaming Service)**
-- 😙  More with VueJS: https://jungtin-flash-card.web.app **(Memory FlashCard)**, https://jungtin-food.web.app **(Food Order App)**
-- 😎  More tools that i'm using: **Docker, Figma**
+- 📚  I just graduated **FPT University - Ho Chi Minh City** and looking for an awesome team to accompany with
+- 🤓  Internship at KMS Technology - Frontend Developer Intern (Angular / Elemica Team)
+- 😼  I enjoy building valuable product, learning business & startup
+- 👨‍ 💻 I've been coding using mainly **Java** and **NodeJS**
+- 😆  Projects up until now:
+- https://rygf.herokuapp.com **(Forum)** - Java, Spring, Hibernate, GCP, MySQL
+- https://academy.jungtin.me **(Online Streaming Service)** - NodeJS, ExpressJS, HandlebarJS, Sequelize, MySQL, Redis
+- https://destinee.vn **(Anonymous Voice Chat)** - Typescript, Ionic, ReactJS, NestJS, Mongoose, MongoDB, Redis, Firebase, WebSocket, WebRTC
+- https://jungtin-flash-card.web.app **(Memory FlashCard)** - VueJS Framework
+- https://jungtin-food.web.app **(Food Order App)** - VueJS Framework
+- 😎  Tools i use: Docker, Github Action, Firebase, Figma
 - 😳  Databases: **MySQL, SQLServer, MongoDB**
 - ⚡  Fun fact: ***I can beatbox, singing, play guitar, doing magic tricks & more 💨***
 
